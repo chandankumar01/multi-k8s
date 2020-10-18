@@ -10,4 +10,8 @@ before_install:
   - gcloud config set project firstkubeproj
   - gcloud config set compute/zone us-central1-a
   - gcloud container clusters get-credentials multi-cluster
+
+
+
+  
   
